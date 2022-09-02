@@ -1,0 +1,14 @@
+body {
+  background-color: #131722;
+  font-family: 'segoe ui light';
+  color: #FFF;
+}
+.brdr{
+  margin: 20px;
+  height: 1px;
+  background-color: rgb(59,59,59);
+}
+a , a:hover , i{
+  text-decoration: none;
+  color: #FFF;
+}
